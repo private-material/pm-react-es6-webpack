@@ -4,8 +4,10 @@ This is a minimal, ready to run boilerplate project including React, ES6 support
 
 ### Usage
 
-'''npm install'''
-'''webpack-dev-server --progress --colors'''
+'''
+npm install
+webpack-dev-server --progress --colors
+'''
 
 The app is now being served at http://localhost:8080/webpack-dev-server/
 
