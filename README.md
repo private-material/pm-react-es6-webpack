@@ -6,6 +6,7 @@ This is a minimal, ready to run boilerplate project including React, ES6 support
 
 ```
 npm install
+npm install -g webpack-dev-server
 webpack-dev-server --progress --colors
 ```
 
